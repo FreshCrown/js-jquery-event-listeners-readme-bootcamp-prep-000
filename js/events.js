@@ -6,10 +6,12 @@ function getIt(){
 }
 
 function frameIt(){
-  $('img').on('load', function(){
+  $('tasty').on('load', function(){
     
   });
 }
+
+
 
 $(document).ready(function(){
 
