@@ -1,4 +1,6 @@
-function getIt()
+function getIt(){
+  
+}
 
 $(document).ready(function(){
 
