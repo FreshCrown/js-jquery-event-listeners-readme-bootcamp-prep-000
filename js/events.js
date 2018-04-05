@@ -1,5 +1,8 @@
 function getIt(){
-  $('p').on('click', function() 
+  $('p').on('click', function()
+  if(p.which == 'click'){
+    
+  }
   alert ('Hey!'));{
     
   }
