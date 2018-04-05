@@ -1,8 +1,4 @@
-function getIt(){
-  $("p").on("click", function(){
-    
-  }
-
+//define functions here
 
 $(document).ready(function(){
 
